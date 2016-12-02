@@ -14,6 +14,8 @@
     <Compile Include="$(MSBuildThisFileDirectory)JsonRpcErrorCodes.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)JsonRpcHttpTransport.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)JsonRpcMediaTypes.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)JsonRpcNamedPipesClient.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)JsonRpcNamedPipesTransport.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)JsonRpcRequest.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)JsonRpcRequestIdGenerator.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)JsonRpcSerializer.cs" />

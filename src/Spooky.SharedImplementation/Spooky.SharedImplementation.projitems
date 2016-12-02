@@ -15,6 +15,7 @@
     <Compile Include="$(MSBuildThisFileDirectory)IRpcClient.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)IRpcSerializer.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)IRpcTransport.cs" />
+    <Compile Include="$(MSBuildThisFileDirectory)NamedPipesTransport.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)RpcClient.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)RpcClientOptions.cs" />
     <Compile Include="$(MSBuildThisFileDirectory)RpcError.cs" />
